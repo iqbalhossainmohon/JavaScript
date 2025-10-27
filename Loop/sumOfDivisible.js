@@ -1,4 +1,4 @@
-//Give me the sum of numbers from 1 to 100 that are divisible by 3.
+//Give me the sum of numbers from 1 to 100 that are divisible by 3 and 5.
 
 
 let sum = 0;
